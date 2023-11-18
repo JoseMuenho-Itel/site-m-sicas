@@ -1,0 +1,30 @@
+.color{
+    background-color: azure;
+    height: 45px;
+    
+}
+
+.center-img{
+     text-align:right;
+     justify-content:center;
+     margin-top: -25px;
+     
+     
+}   
+div a{
+    margin: 10px;
+    
+
+    
+  
+}
+.Logo_Original{
+    padding: 10px 45px;
+    height: 20px;
+    transition: 5s;
+    
+}
+.center-img img{
+    border-radius: 5px;
+    
+}
